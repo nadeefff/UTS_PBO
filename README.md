@@ -1,3 +1,5 @@
+membuat tabel database 
+![image](https://github.com/user-attachments/assets/b677e146-1dd2-461e-a8a9-c0fb97e2a8ff)
 buat import
 ![image](https://github.com/user-attachments/assets/58380015-0c81-40f4-b4a6-9d1a7f3ae3b2)
 sambungkan dengan database
@@ -11,4 +13,4 @@ codingan untuk button tambah
 codingan untuk button delete 
 ![image](https://github.com/user-attachments/assets/b914ad72-5391-4b12-a4d2-2e02426c84b1)
 Dalam uts ini membuat project yang menyambungkan database kedalam codingan java dan menampilkannya menggunakan GUI AWT jadi disini semua data yang di tambahkan dalam tampilan GUI akan 
-otomatis masuk secara langsung kedalam database 
+otomatis masuk secara langsung kedalam database
